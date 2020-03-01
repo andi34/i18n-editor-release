@@ -19,7 +19,7 @@
     <key>CFBundlePackageType</key>
     <string>APPL</string>
     <key>CFBundleShortVersionString</key>
-    <string>1.0.0</string>
+    <string>2.0.0-beta.1</string>
     <key>CFBundleSignature</key>
     <string>????</string>
     <key>CFBundleVersion</key>
@@ -38,7 +38,7 @@
     <string>com.jvms.i18neditor.Main</string>
     <key>JVMClassPaths</key>
     <array>
-      <string>com/jvms/i18n-editor/1.0.0/i18n-editor-1.0.0.jar</string>
+      <string>com/jvms/i18n-editor/2.0.0-beta.1/i18n-editor-2.0.0-beta.1.jar</string>
       <string>org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar</string>
       <string>com/google/code/gson/gson/2.8.0/gson-2.8.0.jar</string>
       <string>com/google/guava/guava/21.0/guava-21.0.jar</string>
